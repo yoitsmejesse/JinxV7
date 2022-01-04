@@ -4,7 +4,7 @@ My Name Is <a href=https://t.me/{}>{}</a>, Imma give ya MOVIES!!!
 Made For <a href=https://t.me/showsarchive>Cine Verse Archive</a>"""
     HELP_TXT = """Hey {}
 Here is the help for my commands."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
+    ABOUT_TXT = """➥ My Name: {}
 ➥ Creator: <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>
 ➥ Library: Program
 ➥ Language: Python 3
