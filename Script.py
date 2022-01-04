@@ -5,7 +5,7 @@ Made For <a href=https://t.me/showsarchive>Cine Verse Archive</a>"""
     HELP_TXT = """Hey {}
 Here is the help for my commands."""
     ABOUT_TXT = """➥ My Name: {}
-➥ Creator: <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>
+➥ Creator: <a href=https://t.me/showsarchive>Cine Verse Archive</a>
 ➥ Library: Program
 ➥ Language: Python 3
 ➥ Database: Mongo DB
