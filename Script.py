@@ -1,16 +1,16 @@
 class script(object):
-    START_TXT = """Hello {},
-My Name Is <a href=https://t.me/{}>{}</a>, Imma give ya MOVIES!!!
-Made For <a href=https://t.me/showsarchive>Cine Verse Archive</a>"""
+    START_TXT = """**Hello {},**
+**My Name Is <a href=https://t.me/{}>{}</a>, Imma give ya MOVIES!!!**
+**Made For <a href=https://t.me/showsarchive>Cine Verse Archive</a>**"""
     HELP_TXT = """Hey {}
 Here is the help for my commands."""
-    ABOUT_TXT = """➥ My Name: {}
-➥ Creator: <a href=https://t.me/showsarchive>Cine Verse Archive</a>
-➥ Library: Program
-➥ Language: Python 3
-➥ Database: Mongo DB
-➥ Bot Server: Heroku
-➥ Build Status: v1.0.1 [ Beta ]"""
+    ABOUT_TXT = """○ My Name: {}
+○ Creator: <a href=https://t.me/showsarchive>Cine Verse Archive</a>
+○ Library: Program
+○ Language: Python 3
+○ Database: Mongo DB
+○ Bot Server: Heroku
+○ Build Status: V1.0.7"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
 - Source - https://github.com/EvamariaTG/EvaMaria  
@@ -92,11 +92,11 @@ This module only works for my admins
 • /unban  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
-    STATUS_TXT = """➥ Total Files: <code>{}</code>
-➥ Total Users: <code>{}</code>
-➥ Total Chats: <code>{}</code>
-➥ Used Storage: <code>{}</code> 𝙼𝚒𝙱
-➥ Free Storage: <code>{}</code> 𝙼𝚒𝙱"""
+    STATUS_TXT = """○ Total Files: <code>{}</code>
+○ Total Users: <code>{}</code>
+○ Total Chats: <code>{}</code>
+○ Used Storage: <code>{}</code> 𝙼𝚒𝙱
+○ Free Storage: <code>{}</code> 𝙼𝚒𝙱"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
