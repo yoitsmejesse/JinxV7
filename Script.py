@@ -4,13 +4,13 @@ My Name Is <a href=https://t.me/{}>{}</a>, Imma give ya MOVIES!!!
 Made For <a href=https://t.me/showsarchive>Cine Verse Archive</a></b>"""
     HELP_TXT = """Hey {}
 Here is the help for my commands."""
-    ABOUT_TXT = """○ My Name: {}
+    ABOUT_TXT = """<b>○ My Name: {}
 ○ Creator: <a href=https://t.me/showsarchive>Cine Verse Archive</a>
 ○ Library: Program
 ○ Language: Python 3
 ○ Database: Mongo DB
 ○ Bot Server: Heroku
-○ Build Status: V1.0.7"""
+○ Build Status: V1.0.7</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 • Jinx (Eva Maria) is a open source project
 • Source: <a href=https://github.com/EvamariaTG/EvaMaria>Eva Maria</a>
