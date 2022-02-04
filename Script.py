@@ -6,7 +6,7 @@ Made For <a href=https://t.me/showsarchive>Cine Verse Archive</a></b>"""
 Here is the help for my commands."""
     ABOUT_TXT = """<b>○ My Name: {}
 ○ Creator: <a href=https://t.me/showsarchive>Cine Verse Archive</a>
-○ Library: Program
+○ Library: Pyrogram
 ○ Language: Python 3
 ○ Database: Mongo DB
 ○ Bot Server: Heroku
