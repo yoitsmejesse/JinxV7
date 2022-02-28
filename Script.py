@@ -2,8 +2,8 @@ class script(object):
     START_TXT = """<b>Hello {},
 My Name Is <a href=https://t.me/{}>{}</a>, Imma give ya MOVIES!!!
 Made For <a href=https://t.me/showsarchive>Cine Verse Archive</a></b>"""
-    HELP_TXT = """Hey {}
-Here is the help for my commands."""
+    HELP_TXT = <b>"""Hey {}
+Here is the help for my commands."""</b>
     ABOUT_TXT = """<b>○ My Name: {}
 ○ Creator: <a href=https://t.me/showsarchive>Cine Verse Archive</a>
 ○ Library: Pyrogram
@@ -18,12 +18,12 @@ Here is the help for my commands."""
 • <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and Jinx will respond whenever a keyword is found the message
+- <b>Filter is the feature were users can set automated replies for a particular keyword and Jinx will respond whenever a keyword is found the message</b>
 
 <b>NOTE:</b>
-1. Jinx should have admin privillage.
+<b>1. Jinx should have admin privillage.
 2. only admins can add filters in a chat.
-3. alert buttons have a limit of 64 characters.
+3. alert buttons have a limit of 64 characters.</b>
 
 <b>Commands and Usage:</b>
 • /filter - <code>add a filter in chat</code>
@@ -35,26 +35,26 @@ Here is the help for my commands."""
 - Jinx Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
-1. Telegram will not allows you to send buttons without any content, so content is mandatory.
+<b>1. Telegram will not allows you to send buttons without any content, so content is mandatory.
 2. Jinx supports buttons with any telegram media type.
-3. Buttons should be properly parsed as markdown format
+3. Buttons should be properly parsed as markdown format.</b>
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/EvaMariaBot)</code>
+<code>[Button Text](buttonurl:https://t.me/jinxpowder_bot)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
-1. Make me the admin of your channel if it's private.
-2. make sure that your channel does not contains camrips, porn and fake files.
-3. Forward the last message to me with quotes.
+<b>1. Make me the admin of your channel if it's private.
+2. Make sure that your channel does not contains camrips, porn and fake files.
+3. Forward the last message to me with quotes.</b>
  I'll add all the files in that channel to my db."""
     CONNECTION_TXT = """Help: <b>Connections</b>
 
 - Used to connect bot to PM for managing filters 
-- it helps to avoid spamming in groups.
+- It helps to avoid spamming in groups.
 
 <b>NOTE:</b>
 1. Only admins can add a connection.
