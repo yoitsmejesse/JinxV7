@@ -16,23 +16,23 @@ Here is the help for my commands.</b>"""
 • Source: <a href=https://github.com/EvamariaTG/EvaMaria>Eva Maria</a>
 <b>DEVS:</b>
 • <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
-    MANUELFILTER_TXT = """Help: <b>Filters</b>
+    MANUELFILTER_TXT = """<b>Help: Filters</b>
 
 - <b>Filter is the feature were users can set automated replies for a particular keyword and Jinx will respond whenever a keyword is found the message</b>
 
 <b>NOTE:</b>
 <b>1. Jinx should have admin privillage.
-2. only admins can add filters in a chat.
-3. alert buttons have a limit of 64 characters.</b>
+2. Only admins can add filters in a chat.
+3. Alert buttons have a limit of 64 characters.</b>
 
 <b>Commands and Usage:</b>
 • /filter - <code>add a filter in chat</code>
 • /filters - <code>list all the filters of a chat</code>
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
-    BUTTON_TXT = """Help: <b>Buttons</b>
+    BUTTON_TXT = """<b>Help: Buttons</b>
 
-- Jinx Supports both url and alert inline buttons.
+<b>- Jinx supports both url and alert inline buttons.</b>
 
 <b>NOTE:</b>
 <b>1. Telegram will not allows you to send buttons without any content, so content is mandatory.
@@ -44,17 +44,17 @@ Here is the help for my commands.</b>"""
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
-    AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
+    AUTOFILTER_TXT = """<b>Help: Auto Filter</b>
 
 <b>NOTE:</b>
 <b>1. Make me the admin of your channel if it's private.
 2. Make sure that your channel does not contains camrips, porn and fake files.
-3. Forward the last message to me with quotes.</b>
- I'll add all the files in that channel to my db."""
-    CONNECTION_TXT = """Help: <b>Connections</b>
+3. Forward the last message to me with quotes.
+ I'll add all the files in that channel to my db.</b>"""
+    CONNECTION_TXT = """<b>Help: Connections</b>
 
-- Used to connect bot to PM for managing filters 
-- It helps to avoid spamming in groups.
+<b>- Used to connect bot to PM for managing filters 
+- It helps to avoid spamming in groups.</b>
 
 <b>NOTE:</b>
 1. Only admins can add a connection.
@@ -64,20 +64,20 @@ Here is the help for my commands.</b>"""
 • /connect  - <code>connect a particular chat to your PM</code>
 • /disconnect  - <code>disconnect from a chat</code>
 • /connections - <code>list all your connections</code>"""
-    EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
+    EXTRAMOD_TXT = """<b>Help: Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Jinx
+<b>These are the extra features of Jinx</b>
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specifed user.</code>
 • /info  - <code>get information about a user.</code>
 • /imdb  - <code>get the film information from IMDb source.</code>
 • /search  - <code>get the film information from various sources.</code>"""
-    ADMIN_TXT = """Help: <b>Admin mods</b>
+    ADMIN_TXT = """<b>Help: Admin mods</b>
 
 <b>NOTE:</b>
-This module only works for my admins
+<b>This module only works for my admins</b>
 
 <b>Commands and Usage:</b>
 • /logs - <code>to get the rescent errors</code>
