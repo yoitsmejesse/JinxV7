@@ -1,4 +1,3 @@
-#Kanged From @TroJanZheX
 import asyncio
 import re
 import ast
@@ -39,7 +38,7 @@ async def next_page(bot, query):
 
     ident, req, key, offset = query.data.split("_")
     if int(req) not in [query.from_user.id, 0]:
-        return await query.answer("oKda", show_alert=True)
+        return await query.answer("Okay", show_alert=True)
     try:
         offset = int(offset)
     except:
@@ -641,7 +640,7 @@ async def auto_filter(client, msg, spoll=False):
             **locals()
         )
     else:
-        cap = f"Here is what i found for your query {search}"
+        cap = f"<b>Here is what i found for your query {search}</b>"
     if imdb and imdb.get('poster'):
         try:
             await message.reply_photo(photo=imdb.get('poster'), caption=cap, reply_markup=InlineKeyboardMarkup(btn))
