@@ -57,8 +57,8 @@ Here is the help for my commands.</b>"""
 - It helps to avoid spamming in groups.</b>
 
 <b>NOTE:</b>
-1. Only admins can add a connection.
-2. Send <code>/connect</code> for connecting me to ur PM
+<b>1. Only admins can add a connection.</b>
+<b>2. Send </b><code>/connect</code> <b>for connecting me to ur PM.</b>
 
 <b>Commands and Usage:</b>
 • /connect  - <code>connect a particular chat to your PM</code>
@@ -94,8 +94,8 @@ Here is the help for my commands.</b>"""
     STATUS_TXT = """○ Total Files: <code>{}</code>
 ○ Total Users: <code>{}</code>
 ○ Total Chats: <code>{}</code>
-○ Used Storage: <code>{}</code> 𝙼𝚒𝙱
-○ Free Storage: <code>{}</code> 𝙼𝚒𝙱"""
+○ Used Storage: <code>{}</code> 𝙼𝙱
+○ Free Storage: <code>{}</code> M𝙱"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
