@@ -94,8 +94,8 @@ Here is the help for my commands.</b>"""
     STATUS_TXT = """○ Total Files: <code>{}</code>
 ○ Total Users: <code>{}</code>
 ○ Total Chats: <code>{}</code>
-○ Used Storage: <code>{}</code> 𝙼𝙱
-○ Free Storage: <code>{}</code> M𝙱"""
+○ Used Storage: <code>{}</code> 𝙼𝚒𝙱
+○ Free Storage: <code>{}</code> 𝙼𝚒𝙱"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
